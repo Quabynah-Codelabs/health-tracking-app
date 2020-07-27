@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HTA</string>
+    <string name="app_name">Health Tracking Application</string>
+    <string name="app_name_launcher">HTA</string>
 </resources>
